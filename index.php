@@ -48,7 +48,7 @@
             <div class="row align-items-start">
 
               <div class="justify-content-end col-lg-4">
-                <img src="../actoblibost/image/sarahkay.jpg" class="img-fluid" width="260px" alt="200px" >
+                <img src="image/sarahkay.jpg" class="img-fluid" width="260px" alt="200px" >
                 <h5 class="card-title">Sarah Kay</h5>
                 <h6 class="card-subtitle mb-2 text-muted">Imagenes del Recuerdo</h6>
                 <p class="card-text">Estreno 2021</p>
@@ -56,14 +56,14 @@
               </div>
 
               <div class="justify-content-end col-lg-4">
-                <img src="../actoblibost/image/carlitos.jpg" class="img-fluid" width="250px" alt="200px">
+                <img src="image/carlitos.jpg" class="img-fluid" width="250px" alt="200px">
                 <h5 class="card-title">Rugrats</h5>
                 <h6 class="card-subtitle mb-2 text-muted">Carlitos y su pandilla</h6>
                 <p class="card-text">Comics año 1991*2004</p>
               </div>
 
               <div class="justify-content-end col-lg-4">
-                <img src="../actoblibost/image/avengers.jpg" class="img-fluid" width="200px" alt="200" >
+                <img src="image/avengers.jpg" class="img-fluid" width="200px" alt="200" >
                 <h5 class="card-title">Avengers</h5>
                 <h6 class="card-subtitle mb-2 text-muted">Accion y aventuras</h6>
                 <p class="card-text">Estreno 2022</p>
